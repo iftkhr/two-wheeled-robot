@@ -12,4 +12,4 @@
 
     ![two-wheeled-robot](./visuals/2-Gazebo.png 'Gazebo Simulation')
 
--   The robot was controlled using the [teleop_twist_keyboard](http://wiki.ros.org/teleop_twist_keyboard) package. [Video](./visuals/3-KeyboardControl.mp4)
+-   The robot is controlled using the [teleop_twist_keyboard](http://wiki.ros.org/teleop_twist_keyboard) package. [Video](./visuals/3-KeyboardControl.mp4)
