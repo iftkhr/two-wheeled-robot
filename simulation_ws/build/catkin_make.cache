@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/media/iftkhr/Iftakhar/Robotics/ROS/two-wheeled-robot/simulation_ws/devel -DCMAKE_INSTALL_PREFIX=/media/iftkhr/Iftakhar/Robotics/ROS/two-wheeled-robot/simulation_ws/install -G Unix Makefiles
