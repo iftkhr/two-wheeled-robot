@@ -8,6 +8,22 @@
     <material name="red">
         <color rgba="0.80078125 0.12890625 0.1328125 1.0"/>
     </material>
+    <material name="grey">
+        <color rgba="0.2 0.2 0.2 1.0"/>
+    </material>
+    <material name="orange">
+        <color rgba="1.0 0.423529411765 0.0392156862745 1.0"/>
+    </material>
+
+    <gazebo reference="link_chassis">
+        <material>Gazebo/Grey</material>
+    </gazebo>
+    <gazebo reference="link_left_wheel">
+        <material>Gazebo/Orange</material>
+    </gazebo>
+    <gazebo reference="link_right_wheel">
+        <material>Gazebo/Orange</material>
+    </gazebo>
 
     <link name="link_chassis">
         <!-- pose and inertial -->
