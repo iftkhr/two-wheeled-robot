@@ -14,4 +14,8 @@
     <material name="orange">
         <color rgba="1.0 0.423529411765 0.0392156862745 1.0"/>
     </material>
+    <material name="white">
+        <color rgba="1.0 1.0 1.0 1.0"/>
+    </material>
+
 </robot>
